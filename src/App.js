@@ -2,5 +2,18 @@ import React from "react";
 import "./App.css";
 
 export default function App() {
-  return <div className="App">Weather App</div>;
+  return (
+    <div className="App">
+      <h1>Weather App</h1>
+      <footer>
+        This project was coded by Sara Sabbagh and is opensourced on {""}
+        <a
+          href="https://github.com/Saraesabbagh/final-weather-react"
+          target="_blank"
+        >
+          Github
+        </a>
+      </footer>
+    </div>
+  );
 }
