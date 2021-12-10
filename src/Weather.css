@@ -30,12 +30,10 @@ body {
   list-style: none;
 }
 
-.Weather img {
+.Weather canvas {
   height: 64;
-
   margin-right: 10px;
   display: inline-block;
-  padding-bottom: 30px;
 }
 
 .Weather .temperature {
