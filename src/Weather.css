@@ -3,16 +3,17 @@ body {
 
 .Weather {
   border: 1px solid #dadde1;
-  padding: 16px;
+  background-color: #6fd5d2;
+  padding: 20px;
   margin: 30px auto;
   border-radius: 4px;
   font-family: Arial, Helvetica, sans-serif;
-  color: rgb(135, 135, 135);
+  color: black;
 }
 
 .Weather h1 {
   color: #878787;
-  color: rgb(135, 135, 135);
+  color: black;
   font-size: 24px;
   font-weight: 100;
   margin: 20px 0 0 0;
